@@ -7,19 +7,23 @@ title: Research
 
 * Feylessoufi, A., Ralph, D. and Kavadias, S. (2023). [Behavioral Microfoundations of New Practice Adoption](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3644499): the Effects of Rewards, Training and Population Dynamics. _Management Science. Forthcoming_.
   
-* A. Feylessoufi (with F. Brahm and M. Singer). “The impact of formal and social incentives on teams: Micro-evidence
-from retail.” Reject and Resubmit at _Strategic Management Journal_ (resubmitted).
+* A. Feylessoufi (with F. Brahm and M. Singer). [The impact of formal and social incentives on teams](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3872735): Micro-evidence
+from retail. Reject and Resubmit at _Strategic Management Journal_ (resubmitted).
 
 * A. Feylessoufi (with L. Betcheva, F. Erhun, P. Goncalves, H. Jiang, P. Kattuman, A. Pari, T. Pape, C. Tyrell and S.
-Scholtes). “Rapid COVID-19 Modelling Support for Regional Health Systems in England.” Revise and Resubmit at
+Scholtes). [Rapid COVID-19 Modelling Support for Regional Health Systems in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695258). Revise and Resubmit at
 _INFORMS Journal on Applied Analytics_.
 
 ### Working papers
 
-* paper
-* paper
+* A. Feylessoufi (with J. Hutchison-Krupat, and S. Kavadias). “Interdependence, Modularity, and Incentives for Uncertain
+Projects.” 
+
+* A. Feylessoufi (with E. Korpeoglu and M. Sumida). “Loyalty Programs Adoption and Multi-channel Revenue Manage-
+ment.”
 
 ### Work in progress
 
-* paper
-* paper
+* A. Feylessoufi (with E. Korpeoglu, L. Song, and S.Yang). “An emprical analysis of loyalty program change on customer
+channel switching behaviour.”
+* A. Feylessoufi (with X. Guo, and E. Korpeoglu). “Demand Forecasting and Multi-channel Capacity Planning.”
