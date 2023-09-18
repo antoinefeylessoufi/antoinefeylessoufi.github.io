@@ -12,9 +12,11 @@
       ![headshot](/assets/feylessoufi-antoine-883x432.jpg)
     </div>
 
+    {% comment %} need to include this if we want a navigation pane
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
+ {% endcomment %}
+      
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
