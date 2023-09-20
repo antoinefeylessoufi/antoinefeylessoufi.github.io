@@ -19,8 +19,7 @@ _INFORMS Journal on Applied Analytics_.
 * A. Feylessoufi (with J. Hutchison-Krupat, and S. Kavadias). “Interdependence, Modularity, and Incentives for Uncertain
 Projects.” 
 
-* A. Feylessoufi (with E. Korpeoglu and M. Sumida). “Loyalty Programs Adoption and Multi-channel Revenue Manage-
-ment.”
+* A. Feylessoufi (with E. Korpeoglu and M. Sumida). “Loyalty Programs Adoption and Multi-channel Revenue Management.”
 
 ### Work in progress
 
