@@ -23,6 +23,6 @@ Projects.”
 
 ### Work in progress
 
-* A. Feylessoufi (with E. Korpeoglu, L. Song, and S.Yang). “Emprical Analysis of Loyalty Program Change on Customer
+* A. Feylessoufi (with E. Korpeoglu, L. Song, and S.Yang). “Empirical Analysis of Loyalty Program Change on Customer
 Channel Switching Behaviour.”
 * A. Feylessoufi (with X. Guo, and E. Korpeoglu). “Demand Forecasting and Multi-channel Capacity Planning.”
