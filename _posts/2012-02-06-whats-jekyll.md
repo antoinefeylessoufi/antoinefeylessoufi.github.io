@@ -19,7 +19,7 @@ Industry Projects (Management Tripos Undergraduate) 2019 –2021
 Spark Electric Vehicles, VentureFounders, Owlstone and Cambridge City Council.
 
 ### Course Coordinator at University of Cambridge, Judge Business School
-Innovation Management (Executive MBA) Fall Semester 2015 –2020
+Innovation Management (Executive MBA) Fall Semester 2015 –2020 \
 Operations Management (Executive MBA) Spring Semester 2016 –2017
 * Leading supervisions for EMBA innovation end-of-year essays, providing in-class coordination and after-class
 support, demonstrating tutorials
