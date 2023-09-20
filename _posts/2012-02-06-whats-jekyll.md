@@ -23,7 +23,7 @@ Innovation Management (Executive MBA) Fall Semester 2015 –2020
 Operations Management (Executive MBA) Spring Semester 2016 –2017
 * Leading supervisions for EMBA innovation end-of-year essays, providing in-class coordination and after-class
 support, demonstrating tutorials
-* Teaching evaluations (last 2 years): 4.4/5, 4.3/5
+* Teaching evaluations (last 2 years): 4.4/5 and 4.3/5
 
 ### Teaching Assistant at University of Cambridge, Department of Engineering
 Risk Modeling (Engineering Tripos Undergraduate) Spring Semester 2017–2018
