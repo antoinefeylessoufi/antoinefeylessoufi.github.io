@@ -11,8 +11,7 @@ title: Research
 from retail. Reject and Resubmit at _Strategic Management Journal_ (resubmitted).
 
 * A. Feylessoufi (with L. Betcheva, F. Erhun, P. Goncalves, H. Jiang, P. Kattuman, A. Pari, T. Pape, C. Tyrell and S.
-Scholtes). [Rapid COVID-19 Modelling Support for Regional Health Systems in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695258). Revise and Resubmit at
-_INFORMS Journal on Applied Analytics_.
+Scholtes). [Rapid COVID-19 Modelling Support for Regional Health Systems in England](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695258). _INFORMS Journal on Applied Analytics. Forthcoming_.
 
 ### Working papers
 
