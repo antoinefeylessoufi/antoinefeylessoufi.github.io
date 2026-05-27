@@ -3,7 +3,7 @@ layout: post
 title: Research
 ---
 
-### Publications and Papers under review
+### Publications and under review
 
 * Feylessoufi, A., Kavadias, S. and Ralph, D. (2023). [Behavioral Microfoundations of New Practice Adoption: The Effects of Rewards, Training and Population Dynamics](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.00305). Management Science.
   
