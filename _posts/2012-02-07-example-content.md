@@ -3,7 +3,7 @@ layout: post
 title: Research
 ---
 
-### Publications and under review
+### Publications and Papers under review
 
 * Feylessoufi, A., Kavadias, S. and Ralph, D. (2023). [Behavioral Microfoundations of New Practice Adoption](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3644499): the Effects of Rewards, Training and Population Dynamics. _Management Science. Forthcoming_.
   
@@ -15,13 +15,8 @@ Scholtes). [Rapid COVID-19 Modelling Support for Regional Health Systems in Engl
 
 ### Working papers
 
-* A. Feylessoufi (with J. Hutchison-Krupat, and S. Kavadias). “Interdependence, Modularity, and Incentives for Uncertain
-Projects.” 
+* Feylessoufi, A., Kattuman, P. and Wijnsma, S. [Rethinking livelihood intervention design for rural smallholders: A population dynamics approach under adoption externalities.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6823479) 
 
-* A. Feylessoufi (with E. Korpeoglu and M. Sumida). “Loyalty Program Adoption and Multi-channel Revenue Management.”
+* Yang, S., Feylessoufi, A., Korpeoglu, E. [Hotel Loyalty Programs vs. Online Travel Agency Platforms: A Quasi-Natural Experiment.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400079)
 
-### Work in progress
 
-* A. Feylessoufi (with E. Korpeoglu, L. Song, and S.Yang). “Empirical Analysis of Loyalty Program Change on Customer
-Channel Switching Behaviour.”
-* A. Feylessoufi (with X. Guo, and E. Korpeoglu). “Demand Forecasting and Multi-channel Capacity Planning.”
