@@ -11,7 +11,7 @@ title: Research
 The impact of pay-for-performance on teams: Evidence from a natural experiment.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3872735) _Under Review_ .
 
 * Betcheva, L., Erhun, F., Feylessoufi, A., Goncalves, P., Jiang, H., Kattuman, P., Pari, A., Pape, T., Tyrell, C., and
-Scholtes, S.). [An Adaptive Research Approach to COVID-19 Forecasting for Regional Health Systems in England.](https://pubsonline.informs.org/doi/10.1287/inte.2023.0009)). INFORMS Journal on Applied Analytics. 
+Scholtes, S. (2024). [An Adaptive Research Approach to COVID-19 Forecasting for Regional Health Systems in England.](https://pubsonline.informs.org/doi/10.1287/inte.2023.0009)). INFORMS Journal on Applied Analytics. 
 
 ### Working papers
 
