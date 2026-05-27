@@ -5,7 +5,7 @@ title: Research
 
 ### Publications and under review
 
-* Feylessoufi, A., Kavadias, S. and Ralph, D. (2023). [Behavioral Microfoundations of New Practice Adoption: The Effects of Rewards, Training and Population Dynamics](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.00305). Management Science.
+* Feylessoufi, A., Kavadias, S. and Ralph, D. (2023). [Behavioral Microfoundations of New Practice Adoption: The Effects of Rewards, Training and Population Dynamics](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.00305). _Management Science_.
   
 * A. Feylessoufi (with F. Brahm and M. Singer). [	
 The impact of pay-for-performance on teams: Evidence from a natural experiment.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3872735) _Under Review_ .
